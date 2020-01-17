@@ -31,7 +31,7 @@ output:
 <tr>
 <td style="vertical-align:top;padding-right:10px">
 
-### I The description-experience gap <a href="https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/TAPMI_WS2020_DfEI.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a></span>
+### I The description-experience gap <a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_keynote/DfE_2020_TAPMI_censored.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a></span>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/drosophila.png" width=480px style="height:80px">
@@ -68,7 +68,7 @@ Spektor, M., & Wulff, D. U. (in prep.) Strategic information search. Manuscript 
 </td>
 <td style="vertical-align:top;padding-left:10px">
 
-### II Harnessing simulated experiences <a href="https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/TAPMI_WS2020_DfEII.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a>
+### II Harnessing simulated experiences <a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_keynote/DfE_2020_TAPMI_II_censored.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/stocks.png" width=480px style="height:80px">
