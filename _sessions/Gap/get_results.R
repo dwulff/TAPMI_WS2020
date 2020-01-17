@@ -1,7 +1,5 @@
-
-
 options(stringsAsFactors = F)
-require(googlesheets)
+require(googlesheets4)
 require(choicepp)
 
 
@@ -23,11 +21,11 @@ p_ns_s = table(pid_test_s) / length(pid_test_s)
 
 pa_test_s = p_arrange(as.matrix(p_test),2)
 
-tab = paste0('Exploring Decisions from Experience, January 2020 (Antworten)')
 
-gs = gs_title(tab)
-d = gs_read(gs)
-d = as.data.frame(d)
+
+
+d = read_sheet(ss = "19m0NSqmE6Wo1YnSfJkB_7BS6gF1roV9iGJ0leqZl-HQ")
+d$Alpha = .8
 
 d$Noise[d$Noise > 1] = d$Noise[d$Noise > 1] / 1000
 
@@ -68,7 +66,7 @@ for(i in 1:nrow(d)){
   mses[i] = sum((crit - pred)**2 * p_ns[names(crit)])
   
   }
-
+mses
 
 ###### Exercise results<
 
