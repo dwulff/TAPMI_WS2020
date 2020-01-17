@@ -27,9 +27,6 @@ output:
 
 <br>
 
-
-https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/
-
 ### I The description-experience gap <a href="https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/TAPMI_WS2020_DfEI.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a></span>
 
 <p align="left">
