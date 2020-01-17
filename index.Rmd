@@ -34,7 +34,7 @@ output:
 ### I The description-experience gap <a href="https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/TAPMI_WS2020_DfEI.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a></span>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/drosophila.png" width=480px height=20px>
+  <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/drosophila.png" width=480px style="height:80px">
 </p>
 
 <div style="width:480px;padding:5px;background-color: #FAD7A0;">
@@ -71,10 +71,10 @@ Spektor, M., & Wulff, D. U. (in prep.) Strategic information search. Manuscript 
 ### II Harnessing simulated experiences <a href="https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/TAPMI_WS2020_DfEII.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/stocks.png" width=480px height=20px>
+  <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/stocks.png" width=480px style="height:80px">
 </p>
 
-<div style="width:480px;border:padding:5px;background-color: lightblue">
+<div style="width:480px;padding:5px;background-color:lightblue">
 
 #### Interactive 1 - 20min
 
@@ -84,7 +84,7 @@ When you think you have found the best mix of cognitive components go to this <a
 
 </div>
 
-<div style="width:480px;padding:5px;margin-top:10px;background-color: lightblue">
+<div style="width:480px;padding:5px;margin-top:10px;background-color:lightblue">
 
 #### Interactive 2 - 20min
 
