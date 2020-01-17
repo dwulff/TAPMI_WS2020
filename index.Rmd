@@ -27,6 +27,10 @@ output:
 
 <br>
 
+<table>
+<tr>
+<td style="vertical-align:top;padding-right:10px">
+
 ### I The description-experience gap <a href="https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/TAPMI_WS2020_DfEI.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a></span>
 
 <p align="left">
@@ -51,17 +55,18 @@ Please enter your intuitions about how people explore using this <a href="https:
 
 #### References
 
-<a href="_sessions/_pdf/Wulff2018GapMeta.pdf">Wulff, D. U., Mergenthaler-Canseco, M., & Hertwig, R. (2018). A meta-analytic review of two modes of learning and the description-experience gap. *Psychological bulletin, 144*(2), 140-176.</a>
+<a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_pdf/Wulff2018GapMeta.pdf">Wulff, D. U., Mergenthaler-Canseco, M., & Hertwig, R. (2018). A meta-analytic review of two modes of learning and the description-experience gap. *Psychological bulletin, 144*(2), 140-176.</a>
 
-<a href="_sessions/_pdf/Hertwig2018Risk.pdf">Hertwig, R., Wulff, D. U., & Mata, R. (2018). Three gaps and what they may mean for risk preference. *Philosophical Transactions of the Royal Society B, 374*(1766), 20180140.</a>
+<a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_pdf/Hertwig2018Risk.pdf">Hertwig, R., Wulff, D. U., & Mata, R. (2018). Three gaps and what they may mean for risk preference. *Philosophical Transactions of the Royal Society B, 374*(1766), 20180140.</a>
 
 Spektor, M., & Wulff, D. U. (in prep.) Strategic information search. Manuscript in preparation.
 
-<a href="_sessions/_pdf/Wulff2015Amazon.pdf">Wulff, D. U., Hills, T. T., & Hertwig, R. (2015). Online product reviews and the description–experience gap. Journal of Behavioral Decision Making, 28(3), 214-223.</a>
+<a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_pdf/Wulff2015Amazon.pdf">Wulff, D. U., Hills, T. T., & Hertwig, R. (2015). Online product reviews and the description–experience gap. Journal of Behavioral Decision Making, 28(3), 214-223.</a>
 
 </div>
 
-<br>
+</td>
+<td style="vertical-align:top;padding-left:10px">
 
 ### II Harnessing simulated experiences <a href="https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/TAPMI_WS2020_DfEII.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a>
 
@@ -119,9 +124,12 @@ When you have explore all risk intervention tools, go to this <a href="">**surve
 
 #### References
 
-<a href="_sessions/_pdf/Kaufman2013RiskTool.pdf">Kaufmann, C., Weber, M., & Haisley, E. (2013). The role of experience sampling and graphical displays on one's investment risk appetite. Management science, 59(2), 323-340.</a>
+<a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_pdf/Kaufman2013RiskTool.pdf">Kaufmann, C., Weber, M., & Haisley, E. (2013). The role of experience sampling and graphical displays on one's investment risk appetite. Management science, 59(2), 323-340.</a>
 
 Hertwig, R., & Wulff, D. U. (in prep.). Learning From Experience and Description: Two Powerful Yet Imperfect Teachers of Risk Cognition. Invited by *Nature Human Behavior*. 
 
 </div>
 
+</td>
+</tr>
+</table>
