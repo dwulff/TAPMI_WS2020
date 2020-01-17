@@ -23,7 +23,7 @@ p_ns_s = table(pid_test_s) / length(pid_test_s)
 
 pa_test_s = p_arrange(as.matrix(p_test),2)
 
-tab = paste0('Exploring the gap, Salzburg, July 2018 (Antworten)')
+tab = paste0('Exploring Decisions from Experience, January 2020 (Antworten)')
 
 gs = gs_title(tab)
 d = gs_read(gs)
