@@ -39,7 +39,7 @@ output:
 
 <div style="width:480px;padding:5px;background-color: #FAD7A0;">
 
-#### Interactive 1 - 5min
+#### Interactive 1 - 10min
 
 Go to this <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-7-element-1">**site**</a> to try out risky choices based on experience and description. **Don't sample for too long**. 
 </div>
