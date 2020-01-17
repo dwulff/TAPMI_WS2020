@@ -27,10 +27,13 @@ output:
 
 <br>
 
-### I The description-experience gap <a href="https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/TAPMI_WS2020_DfEI.pdf"><img src="_sessions/_image/slides.png" style="height:14px"></a></span>
+
+https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/
+
+### I The description-experience gap <a href="https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/TAPMI_WS2020_DfEI.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a></span>
 
 <p align="left">
-  <img src="_sessions/_image/drosophila.png" width=480px height=20px>
+  <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/drosophila.png" width=480px height=20px>
 </p>
 
 <div style="width:480px;border:1px solid lightgrey;padding:5px">
@@ -63,10 +66,10 @@ Spektor, M., & Wulff, D. U. (in prep.) Strategic information search. Manuscript 
 
 <br>
 
-### II Harnessing simulated experiences <a href="https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/TAPMI_WS2020_DfEII.pdf"><img src="_sessions/_image/slides.png" style="height:14px"></a>
+### II Harnessing simulated experiences <a href="https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/TAPMI_WS2020_DfEII.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a>
 
 <p align="left">
-  <img src="_sessions/_image/stocks.png" width=480px height=20px>
+  <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/stocks.png" width=480px height=20px>
 </p>
 
 <div style="width:480px;border:1px solid lightgrey;padding:5px">
@@ -90,19 +93,19 @@ Try out each of the risk intervention tools below (simply click on them). Only e
   <tr>
     <td style="padding:4px">
     <p style="size:20px;weight:900">Description</p>
-    <img src="_sessions/_image/description.png" style="height:60px;width:115px;border:1px solid lightgrey">
+    <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/description.png" style="height:60px;width:115px;border:1px solid lightgrey">
     </td>
     <td style="padding:4px">
     <p style="size:20px;weight:900">Risk tool</p>
-    <img src="_sessions/_image/risktool.png" style="height:60px;width:115px;border:1px solid lightgrey">
+    <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/risktool.png" style="height:60px;width:115px;border:1px solid lightgrey">
     </td>
     <td style="padding:4px">
     <p style="size:20px;weight:900">Distribution</p>
-    <img src="_sessions/_image/distribution.png" style="height:60px;width:115px;border:1px solid lightgrey">
+    <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/distribution.png" style="height:60px;width:115px;border:1px solid lightgrey">
     </td>
     <td style="padding:4px">
     <p style="size:20px;weight:900">Experience</p>
-    <img src="_sessions/_image/experience.png" style="height:60px;width:115px;border:1px solid lightgrey">
+    <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/experience.png" style="height:60px;width:115px;border:1px solid lightgrey">
     </td>
   </tr>
 </table>
